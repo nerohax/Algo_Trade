@@ -1,4 +1,4 @@
-# 📈 Algo-Trading Strategy with RSI, Moving Averages, and ML
+#  Algo-Trading Strategy with RSI, Moving Averages, and ML
 
 A modular, backtestable algo-trading prototype built using Python, which:
 - Applies RSI + Moving Average crossover strategy
@@ -39,5 +39,12 @@ A modular, backtestable algo-trading prototype built using Python, which:
 
 ---
 
-## 📁 Project Structure
+### Google Sheets Setup
+- Create a service account via Google Cloud
+- Share your Google Sheet with the service account email
+- Save your credentials.json in the project directory
 
+---
+
+### 📚 Requirements
+- Python 3.8+ , yfinance, ta, scikit-learn, gspread, oauth2client, pandas, matplotlib
