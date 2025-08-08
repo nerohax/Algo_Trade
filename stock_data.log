@@ -1,0 +1,9 @@
+2025-08-07 17:17:23,259 - INFO - Successfully fetched data for TCS.NS
+2025-08-07 17:17:23,259 - INFO - Data shape for TCS.NS: (123, 5)
+2025-08-07 17:17:23,471 - INFO - Successfully fetched data for INFY.NS
+2025-08-07 17:17:23,471 - INFO - Data shape for INFY.NS: (123, 5)
+2025-08-07 17:17:23,696 - INFO - Successfully fetched data for HDFCBANK.NS
+2025-08-07 17:17:23,696 - INFO - Data shape for HDFCBANK.NS: (123, 5)
+2025-08-07 17:17:23,704 - INFO - Saved data for TCS.NS to CSV
+2025-08-07 17:17:23,712 - INFO - Saved data for INFY.NS to CSV
+2025-08-07 17:17:23,714 - INFO - Saved data for HDFCBANK.NS to CSV
